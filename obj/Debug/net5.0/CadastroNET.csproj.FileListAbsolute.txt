@@ -1,0 +1,16 @@
+C:\Users\victo\OneDrive\Área de Trabalho\GitCode\DIO\CadastroNET\obj\Debug\net5.0\CadastroNET.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Área de Trabalho\GitCode\DIO\CadastroNET\obj\Debug\net5.0\CadastroNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\GitCode\DIO\CadastroNET\obj\Debug\net5.0\CadastroNET.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\GitCode\DIO\CadastroNET\obj\Debug\net5.0\CadastroNET.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\GitCode\DIO\CadastroNET\obj\Debug\net5.0\CadastroNET.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\GitCode\DIO\CadastroNET\bin\Debug\net5.0\CadastroNET.exe
+C:\Users\victo\OneDrive\Área de Trabalho\GitCode\DIO\CadastroNET\bin\Debug\net5.0\CadastroNET.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\GitCode\DIO\CadastroNET\bin\Debug\net5.0\CadastroNET.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\GitCode\DIO\CadastroNET\bin\Debug\net5.0\CadastroNET.runtimeconfig.dev.json
+C:\Users\victo\OneDrive\Área de Trabalho\GitCode\DIO\CadastroNET\bin\Debug\net5.0\CadastroNET.dll
+C:\Users\victo\OneDrive\Área de Trabalho\GitCode\DIO\CadastroNET\bin\Debug\net5.0\ref\CadastroNET.dll
+C:\Users\victo\OneDrive\Área de Trabalho\GitCode\DIO\CadastroNET\bin\Debug\net5.0\CadastroNET.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\GitCode\DIO\CadastroNET\obj\Debug\net5.0\CadastroNET.dll
+C:\Users\victo\OneDrive\Área de Trabalho\GitCode\DIO\CadastroNET\obj\Debug\net5.0\ref\CadastroNET.dll
+C:\Users\victo\OneDrive\Área de Trabalho\GitCode\DIO\CadastroNET\obj\Debug\net5.0\CadastroNET.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\GitCode\DIO\CadastroNET\obj\Debug\net5.0\CadastroNET.genruntimeconfig.cache
